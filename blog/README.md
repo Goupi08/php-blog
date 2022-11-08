@@ -5,8 +5,7 @@ For educational purposes only.
 
 # Setup
 
-Update the `connect.php` file with your database credentials.  
-Import the `database.sql` file.  
+Update the `connect.php` file with your database credentials.   
 
 If installed on a sub-folder, edit the `config.php` and replace the empty constant with the folder's name.  
 
